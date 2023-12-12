@@ -2,6 +2,7 @@
 
 <img width="302" alt="sport portada" src="https://github.com/Munchkinland/Sportify/assets/92251234/967182f4-8f1e-46bd-9ef4-8e8804ea13bc">
 
+
 ✅Descripción General
 
 Sportify es una innovadora plataforma de reservas de espacios deportivos que facilita a los usuarios la búsqueda, reserva y gestión de espacios para deportes. Con una interfaz amigable y procesos optimizados, Sportify transforma la manera en que los atletas y entusiastas del deporte acceden a las instalaciones deportivas.
